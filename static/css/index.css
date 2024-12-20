@@ -157,9 +157,14 @@ body {
   margin: 0 !important;
 }
 
-#interpolation-image-wrapper {
+.interpolation-image-wrapper {
   width: 100%;
 }
 #interpolation-image-wrapper img {
   border-radius: 5px;
+}
+
+img.animated-gif{
+  width: 120px;
+  height: auto;
 }
